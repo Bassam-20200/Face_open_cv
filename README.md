@@ -31,3 +31,9 @@ after that run Completed file
 ![8](https://user-images.githubusercontent.com/54133895/126046199-42a110c3-7b22-49c0-aad0-26813dddde09.jpg)
 
 task is done !
+
+
+## Resources 
+https://www.youtube.com/watch?v=PLKLsPDZ1t0
+
+https://github.com/AShenaifi/OpenCV/blob/main/README.md
